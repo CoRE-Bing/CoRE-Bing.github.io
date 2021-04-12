@@ -3,31 +3,30 @@ html, body {
     font-family: "Roboto Mono";
 }
 #content {
-    width: 100vw;
-    height: 100vh;
     display: flex;
+    min-width: 100vw;
+    min-height: 100vh;
 }
 #content > .container {
     margin: auto;
     display: flex;
-    margin: auto 5rem auto 5rem;
 }
 #content > .container > div:first-child {
-    width: 33.3333%;
     min-width: 15rem;
-    position: relative;
 }
-#content > .container > div:first-child img {
+#content > .container > div:first-child img:first-child {
     width: 100%;
     animation: alternate infinite ease-in-out bounce 2s;
     filter: drop-shadow(-13px 0px 0.3rem #000);
-    position: absolute;
     left: 5px;
+}
+#content > .container > div:first-child img {
+    animation: alternate infinite ease-in-out bounce 2s;
+    max-width: 45rem;
     top: -2rem;
 }
 
 #content > .container > div:nth-child(2) {
-    width: 66.6666%;
     box-shadow: -16px 12px 20px 0;
     padding: 2rem;
     margin-left: 0px;
