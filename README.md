@@ -25,6 +25,7 @@
 	* Personally I don't really think it should be there. The e-board page should get rid of the desire for it anyway.
 
 ## Luca's Current TODO List:
+* Quality of Life Improvements:
 	* Rebuild the website from the ground up, including sepreate pages where warranted.
 		* Shop page for merch would be fucking awesome
 	* REMOVE THE LINKEDIN (Doing this first)
