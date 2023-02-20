@@ -24,10 +24,10 @@
 * The link to Gabby's LinkedIn no longer works
 	* Personally I don't really think it should be there. The e-board page should get rid of the desire for it anyway.
 
-##Luca's Current TODO List:
-	*Rebuild the website from the ground up, including sepreate pages where warranted.
-		*Shop page for merch would be fucking awesome
-	*REMOVE THE LINKEDIN (Doing this first)
-	*Maximize appeal to be a member of CoRE
-	*EMPHASIS ON APPLICATION!
-	*Updated Photos
+## Luca's Current TODO List:
+	* Rebuild the website from the ground up, including sepreate pages where warranted.
+		* Shop page for merch would be fucking awesome
+	* REMOVE THE LINKEDIN (Doing this first)
+	* Maximize appeal to be a member of CoRE
+	* EMPHASIS ON APPLICATION!
+	* Updated Photos
