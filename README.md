@@ -32,3 +32,13 @@
 	* Maximize appeal to be a member of CoRE
 	* EMPHASIS ON APPLICATION!
 	* Updated Photos
+
+## More ToDos from Luca:
+*  I have a lot of work to do here. I want to give the page a more "technical" feel in order to match what CoRE is all about
+   * I also want to place a much heavier emphasis on the SOCIAL aspect of CoRE, because honestly; CoRE is a family, and while our page currently makes this appearent, I feel like it could do a much better point of pushing that point.
+* I probably should also clean up this README, it kinda looks like I'm talking to myself, but in a creepy way
+	* Well I mean, I kinda am
+		* I'll fix this at some point
+			* thanks Luca.
+				* No problem.
+
