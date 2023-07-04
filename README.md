@@ -28,7 +28,7 @@
 * Quality of Life Improvements:
 	* Rebuild the website from the ground up, including sepreate pages where warranted.
 		* Shop page for merch would be fucking awesome
-	* REMOVE THE LINKEDIN (Doing this first)
+	* REMOVE THE LINKEDIN (Doing this first) [DONE]
 	* Maximize appeal to be a member of CoRE
 	* EMPHASIS ON APPLICATION!
 	* Updated Photos
