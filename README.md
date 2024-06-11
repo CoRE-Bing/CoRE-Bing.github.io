@@ -1,6 +1,6 @@
 # CoRE Website
 ## [Current Link](https://core-bing.github.io/) (Will hopefully lead to core.binghamton.edu soon)
-### Currently maintained by: Luca DiGrigoli
+### Currently maintained by Salaj and Luca
 
 ***
 
