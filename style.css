@@ -76,7 +76,7 @@ img:hover {
 }
 .links {
   font-family: "Roboto Mono", monospace;
-  color: white;
+  color: rgb(23, 36, 151);
   font-size: 1.6vw;
   margin-right: 2vw;
 }
