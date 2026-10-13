@@ -25,7 +25,7 @@
 	* Maximize appeal to be a member of CoRE
 	* Updated Photos
 
-## More ToDos from Luca:
+## More ToDos from Luca: (This is outdated but I kept it for fun)
 * I just cleaned up this README, it kinda looked like I'm talking to myself, but in a creepy way
 	* Well I mean, I kinda am
 		* yeah, you should do something about that
