@@ -6,8 +6,8 @@
 
 ## Current Functionality/Design
 * Has working links on the top bringing the user to each division
-* Has a blue theme throughout the whole page. This was a re-color of Gabby's design, but I wouldn't be opposed to a thematic overhaul
-* Working links to the CoRE admissions form and Kate's email
+* Has a blue/grey theme throughout the whole page. This was a re-color of Gabby's design, but I wouldn't be opposed to a thematic overhaul
+* Working links to the CoRE admissions form and Eboard members' email
 * Colors come up when the user hovers over the images
 
 ## Possible issues or improvements
@@ -15,12 +15,13 @@
 * Add more pages?
 	* One for CoRE links? (Maybe put some sort of barrier so randoes can't access them)
     		* we used to have this
-	* Current (and maybe elected) e-board page
+    * Maybe a link to previous cool CoRE class projects which members can upload
+	* Current (and maybe elected) e-board page (I just added contacts for all members)
 	* CoRE Socials (Can maybe make buttons on the bottom of the main page too)
 
 * Quality of Life Improvements:
 	* Rebuild the website from the ground up, including sepreate pages where warranted.
-   	* It would be nice to have the merch page actually work, but this requires a little more logistics than just making one, of course.
+   	* It would be nice to have a merch page which actually works, but this requires a little more logistics than just making one, of course.
 	* Maximize appeal to be a member of CoRE
 	* Updated Photos
 
