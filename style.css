@@ -311,7 +311,7 @@ img:hover {
   animation: rotating 10s linear infinite;
 }
 
-/* #image1 {
+#image1 {
  visibility: hidden;
   width: 250px;
 }
@@ -340,7 +340,7 @@ img:hover {
   margin-left: 20px;
   left: 80px;
 }
-
+/*
 .world-img {
   position: absolute;
 } */
@@ -354,7 +354,7 @@ img:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-
+  
   /*   margin-left: 60vw; */
 }
 
